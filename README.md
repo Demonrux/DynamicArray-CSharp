@@ -5,7 +5,9 @@
 ## Описание
 
 Проект предоставляет класс `MathVector`, который реализует интерфейс `IMathVector` и поддерживает основные операции линейной алгебры для работы с векторами.
-<img width="600" height="660" alt="image" src="https://github.com/user-attachments/assets/76f522e4-5827-4cae-b346-8b75a424ab87" />
+
+
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/76f522e4-5827-4cae-b346-8b75a424ab87" />
 
 
 ## Функциональность
