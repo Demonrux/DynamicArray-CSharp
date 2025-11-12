@@ -9,6 +9,18 @@
 ### Диаграмма классов 
 <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/76f522e4-5827-4cae-b346-8b75a424ab87" />
 
+## Структура проекта
+```text
+APL_lab5/
+├── LinearAlgebra/              # Основная библиотека
+│   ├── IMathVector.cs          # Интерфейс вектора
+│   └── MathVector.cs           # Реализация вектора
+├── TestVector/                 # xUnit тесты
+│   └── MathVectorTests.cs      # Тесты всех операций
+├── VectorDemo/                 # Демонстрационная программа
+│   └── Program.cs              # Примеры использования
+└── APL_lab5.sln               # Solution файл
+```
 
 ## Функциональность
 
@@ -42,19 +54,6 @@ vector1 / 2          // Деление вектора на скаляр
 - Обработка деления на ноль
 - Проверка пустых коллекций
 - Проверка null-аргументов
-
-## Структура проекта
-```text
-APL_lab5/
-├── LinearAlgebra/              # Основная библиотека
-│   ├── IMathVector.cs          # Интерфейс вектора
-│   └── MathVector.cs           # Реализация вектора
-├── TestVector/                 # xUnit тесты
-│   └── MathVectorTests.cs      # Тесты всех операций
-├── VectorDemo/                 # Демонстрационная программа
-│   └── Program.cs              # Примеры использования
-└── APL_lab5.sln               # Solution файл
-```
 
 ## Использование
 ### Создание векторов
