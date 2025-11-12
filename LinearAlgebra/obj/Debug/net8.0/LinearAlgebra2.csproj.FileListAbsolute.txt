@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.sourcelink.json
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\bin\Debug\net8.0\LinearAlgebra2.deps.json
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\bin\Debug\net8.0\LinearAlgebra2.dll
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\bin\Debug\net8.0\LinearAlgebra2.pdb
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.dll
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\refint\LinearAlgebra2.dll
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\LinearAlgebra2.pdb
+C:\Users\Пользователь\source\repos\APL_lab5\LinearAlgebra2\obj\Debug\net8.0\ref\LinearAlgebra2.dll
