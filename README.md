@@ -70,8 +70,8 @@ var vector3 = new MathVector(vector1);
 
 ### Базовые операции
 ```csharp
-var vector1 = new MathVector(1, 2, 3);
-var vector2 = new MathVector(4, 5, 6);
+var vector1 = new MathVector(new double[] { 1, 2, 3 });
+var vector2 = new MathVector(new List<double> { 4, 5, 6 });
 
 // Методы
 var sum = vector1.Sum(vector2);
